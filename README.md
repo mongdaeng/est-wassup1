@@ -23,6 +23,7 @@ Name|Level
 
 ### 👩 Profile 
 
-TIL(https://www.notion.so/oreumi/Class-TIL-be5c8f8a7b3d465f8d410efc7c6aa803?pvs=4) 
+📎 **Link**
+**TIL** (https://www.notion.so/oreumi/Class-TIL-be5c8f8a7b3d465f8d410efc7c6aa803?pvs=4) 
 
 

@@ -5,5 +5,15 @@
 
 ![sample](imgs/img1.jpg)
 
-#### Learn about
-  * DATA 
+#### ✏ **Learn about**
+  * Data
+  * Business
+  * UX/UI
+
+#### 🔍 **Skill Set**
+필요한 스킬들을 공부하고 있습니다. 
+  * Power Bi
+  * SQL
+  * Python
+
+

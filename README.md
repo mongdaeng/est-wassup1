@@ -3,7 +3,7 @@
 
 > 아직은 ["       "]인 기획자, 박선영입니다.
 
-
+![sample](imgs/img1.jpg)
 
 #### Learn about
   * DATA 
